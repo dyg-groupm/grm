@@ -1,5 +1,4 @@
 {
     "type":  "PTE",
-    "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main",
-    "githubrunner":  "self-hosted"
+    "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main"
 }
