@@ -5,6 +5,9 @@
                     },
                     {
                         "path":  "employee"
+                    },
+                    {
+                        "path":  "employee.Test"
                     }
                 ],
     "settings":  {
