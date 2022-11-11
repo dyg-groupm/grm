@@ -1,5 +1,5 @@
 {
     "type":  "PTE",
     "templateUrl":  "https://github.com/microsoft/AL-Go-PTE@main",
-    "githubrunner":  "BC20-5GRM"
+    "githubrunner":  "self-hosted"
 }
