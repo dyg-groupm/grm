@@ -1,9 +1,11 @@
 {
     "country":  "us",
-    "appFolders":  [
+    "appFolders": [
     ],
-    "testFolders":  [
+    "testFolders":[
     ],
-    "bcptTestFolders":  [
-    ]
+    "bcptTestFolders": [
+    ],
+    "configPackages": [
+        "STANDARD" ]
 }
