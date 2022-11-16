@@ -6,6 +6,6 @@
     ],
     "bcptTestFolders": [
     ],
-    "configPackages": [
+    "configPackages": [ 
         "STANDARD" ]
 }
